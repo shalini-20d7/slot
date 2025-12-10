@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class TtappConfig(AppConfig):
+class TimetableappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'ttapp'
+    name = 'timetableapp'
